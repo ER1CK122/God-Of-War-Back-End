@@ -1,0 +1,12 @@
+
+.logo-wrapper {
+  height: 90px;
+}
+
+.nav-link {
+  display: flex;
+}
+
+.nav-item a{
+  color: #000;
+}
