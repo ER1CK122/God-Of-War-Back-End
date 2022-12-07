@@ -25,13 +25,13 @@
         
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="pages/personagens/lista.php"><img src="assets/images/personas.png" alt="" style="margin-right: 5px;"> - Personagens</a>
+            <a class="nav-link active" aria-current="page" href="pages/personagens/lista.php"><img src="assets/images/personas.png" alt=""> - Personagens</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="pages/lugares/lista.php"><img src="assets/images/maps-icon.png" alt="" style="margin-right: 5px;"> - Lugares</a>
+            <a class="nav-link active" aria-current="page" href="pages/lugares/lista.php"><img src="assets/images/maps-icon.png" alt=""> - Lugares</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="pages/usuarios/lista.php"><img src="assets/images/usuario 1.png" alt="" style="margin-right: 5px;"> - Usuarios</a>
+            <a class="nav-link active" aria-current="page" href="pages/usuarios/lista.php"><img src="assets/images/usuario 1.png" alt=""> - Usuarios</a>
           </li>
         </ul>
         

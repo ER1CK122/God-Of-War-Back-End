@@ -10,3 +10,7 @@
 .nav-item a{
   color: #000;
 }
+
+.nav-link img{
+  width: 10%;
+}
